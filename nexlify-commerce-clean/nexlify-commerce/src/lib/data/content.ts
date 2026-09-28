@@ -59,11 +59,11 @@ export const team = [
 
 export const testimonials = [
   {
-    quote: 'Nexus transformed our entire digital presence. The team delivered a flawless product ahead of schedule, and our conversions jumped 140%.',
+    quote: 'Nexify transformed our entire digital presence. The team delivered a flawless product ahead of schedule, and our conversions jumped 140%.',
     name: 'Rachel Adams', role: 'CEO, FinFlow', img: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=200&q=80',
   },
   {
-    quote: 'Working with Nexus felt like an extension of our own team. Their attention to detail and engineering quality is unmatched.',
+    quote: 'Working with Nexify felt like an extension of our own team. Their attention to detail and engineering quality is unmatched.',
     name: 'Marcus Lee', role: 'CTO, Orbital', img: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&q=80',
   },
   {
@@ -71,13 +71,13 @@ export const testimonials = [
     name: 'Priya Nair', role: 'COO, HelpDesk Pro', img: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=200&q=80',
   },
   {
-    quote: 'Beautiful design, rock-solid code, and a process that just works. We have recommended Nexus to everyone we know.',
+    quote: 'Beautiful design, rock-solid code, and a process that just works. We have recommended Nexify to everyone we know.',
     name: 'Tom Becker', role: 'Founder, Craftly', img: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80',
   },
 ];
 
 export const faqs = [
-  { category: 'General', q: 'What services does Nexus offer?', a: 'We offer full-stack digital services including web and mobile development, e-commerce, UI/UX design, AI solutions, branding, digital marketing, and ongoing maintenance.' },
+  { category: 'General', q: 'What services does Nexify offer?', a: 'We offer full-stack digital services including web and mobile development, e-commerce, UI/UX design, AI solutions, branding, digital marketing, and ongoing maintenance.' },
   { category: 'General', q: 'Which industries do you work with?', a: 'We work across fintech, healthcare, e-commerce, SaaS, education, and more. Our process adapts to any industry.' },
   { category: 'Pricing', q: 'How much does a project cost?', a: 'Every project is unique. We offer fixed-price packages and custom quotes. Visit our pricing page or contact us for a tailored estimate.' },
   { category: 'Pricing', q: 'Do you offer payment plans?', a: 'Yes. We typically structure payments in milestones, and offer monthly retainers for ongoing work.' },

@@ -9,7 +9,7 @@ import { testimonials } from '@/lib/data/content';
 
 export const metadata: Metadata = {
   title: 'Testimonials',
-  description: 'See what our clients say about working with Nexus — real reviews from real partners.',
+  description: 'See what our clients say about working with Nexify — real reviews from real partners.',
 };
 
 const extended = [...testimonials, ...testimonials.map((t) => ({ ...t, name: t.name + ' ' }))];

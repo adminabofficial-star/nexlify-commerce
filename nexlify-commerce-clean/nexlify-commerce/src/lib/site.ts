@@ -1,9 +1,9 @@
 export const site = {
-  name: 'Nexus',
-  fullName: 'Nexus Digital Agency',
+  name: 'Nexify',
+  fullName: 'Nexify Digital Agency',
   tagline: 'We Build Future-Ready Digital Experiences',
   description:
-    'Nexus is a premium software agency delivering world-class web development, AI solutions, UI/UX design, mobile apps, e-commerce, and branding for ambitious companies worldwide.',
+    'Nexify is a premium software agency delivering world-class web development, AI solutions, UI/UX design, mobile apps, e-commerce, and branding for ambitious companies worldwide.',
   url: 'https://nexus-agency.com',
   email: 'hello@nexus-agency.com',
   phone: '+1 (415) 555-0123',

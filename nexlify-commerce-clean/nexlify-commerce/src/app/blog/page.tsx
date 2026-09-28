@@ -13,7 +13,7 @@ export default function BlogPage() {
     <>
       <PageHero
         eyebrow="Insights"
-        title={<>The Nexus <span className="gradient-text">Blog</span></>}
+        title={<>The Nexify <span className="gradient-text">Blog</span></>}
         subtitle="Ideas and expertise from our team on design, engineering, AI, and growth."
       />
       <section className="section pt-4">

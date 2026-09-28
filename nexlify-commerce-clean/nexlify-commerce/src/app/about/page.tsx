@@ -12,7 +12,7 @@ import { values, timeline, awards, team, stats, technologies } from '@/lib/data/
 export const metadata: Metadata = {
   title: 'About Us',
   description:
-    'Learn about Nexus — our story, mission, values, team, and the milestones that shaped our award-winning digital agency.',
+    'Learn about Nexify — our story, mission, values, team, and the milestones that shaped our award-winning digital agency.',
 };
 
 const gallery = [
@@ -26,7 +26,7 @@ export default function AboutPage() {
   return (
     <>
       <PageHero
-        eyebrow="About Nexus"
+        eyebrow="About Nexify"
         title={<>Crafting digital excellence since <span className="gradient-text">2013</span></>}
         subtitle="We’re a global team of makers united by a love for beautiful, high-performing products."
       />
@@ -192,7 +192,7 @@ export default function AboutPage() {
       {/* Gallery */}
       <section className="section">
         <div className="container-px">
-          <SectionHeading eyebrow="Office Life" title={<>Inside <span className="gradient-text">Nexus</span></>} />
+          <SectionHeading eyebrow="Office Life" title={<>Inside <span className="gradient-text">Nexify</span></>} />
           <div className="mt-14 grid grid-cols-2 gap-4 lg:grid-cols-4">
             {gallery.map((src, i) => (
               <Reveal key={src} delay={(i % 4) * 0.06}>

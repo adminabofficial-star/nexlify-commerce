@@ -5,7 +5,7 @@ import { site } from '@/lib/site';
 
 export const metadata: Metadata = {
   title: 'Privacy Policy',
-  description: 'How Nexus collects, uses, and protects your personal information.',
+  description: 'How Nexify collects, uses, and protects your personal information.',
 };
 
 const sections = [

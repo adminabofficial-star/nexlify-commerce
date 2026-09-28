@@ -1,4 +1,4 @@
-# Nexus — Premium 3D Software Agency Website
+# Nexify — Premium 3D Software Agency Website
 
 A modern, premium, fully responsive agency website built with **Next.js 14**, **Tailwind CSS**, **Framer Motion**, **React Three Fiber**, and **Three.js**. Dark theme with blue/purple/cyan gradients, glassmorphism, 3D hero, parallax, animated counters, and micro-interactions throughout.
 

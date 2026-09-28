@@ -10,7 +10,7 @@ This is a standard Next.js app, so Vercel deployment is straightforward and free
 ```bash
 git init
 git add .
-git commit -m "Initial commit: Nexus agency website"
+git commit -m "Initial commit: Nexify agency website"
 git branch -M main
 git remote add origin https://github.com/YOUR_USERNAME/nexus-agency.git
 git push -u origin main

@@ -5,7 +5,7 @@ import { site } from '@/lib/site';
 
 export const metadata: Metadata = {
   title: 'Terms & Conditions',
-  description: 'The terms and conditions governing the use of Nexus services and website.',
+  description: 'The terms and conditions governing the use of Nexify services and website.',
 };
 
 const sections = [

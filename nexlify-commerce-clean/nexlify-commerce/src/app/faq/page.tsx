@@ -5,7 +5,7 @@ import FaqSearch from './FaqSearch';
 
 export const metadata: Metadata = {
   title: 'FAQ',
-  description: 'Answers to the most common questions about working with Nexus.',
+  description: 'Answers to the most common questions about working with Nexify.',
 };
 
 export default function FaqPage() {

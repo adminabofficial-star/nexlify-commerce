@@ -7,7 +7,7 @@ import ContactForm from './ContactForm';
 
 export const metadata: Metadata = {
   title: 'Contact',
-  description: 'Get in touch with Nexus. Tell us about your project and we’ll get back to you within one business day.',
+  description: 'Get in touch with Nexify. Tell us about your project and we’ll get back to you within one business day.',
 };
 
 const info = [

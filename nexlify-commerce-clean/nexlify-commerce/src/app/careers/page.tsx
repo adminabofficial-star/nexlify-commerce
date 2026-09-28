@@ -8,7 +8,7 @@ import ApplicationForm from './ApplicationForm';
 
 export const metadata: Metadata = {
   title: 'Careers',
-  description: 'Join the Nexus team. Explore open positions, our culture, and the benefits of working with us.',
+  description: 'Join the Nexify team. Explore open positions, our culture, and the benefits of working with us.',
 };
 
 export default function CareersPage() {
